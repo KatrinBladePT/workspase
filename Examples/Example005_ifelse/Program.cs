@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Enter your name:");
-string username = Console.ReadLine();
+string username = Console.ReadLine()!;
 //Console.WriteLine("Hello Mary!");
 //DisplayWeatherReport();
 //void DisplayWeatherReport()
